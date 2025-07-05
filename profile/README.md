@@ -59,5 +59,5 @@ Thanks for visiting!
 - **22.11.5279** - RR. Hemas Anggita Amelia (Product Owner)
 - **22.11.5266** - Ramadhani Reza Saeputra (Scrum Master) 
 - **22.11.5275** - Muhammad Azrul Ihwan (UI/UX)
-- **22.11.5276** - Firza Findia Jiven (Frontend Developer
+- **22.11.5276** - Firza Findia Jiven (Frontend Developer)
 - **22.11.5263** - Ervin Aditya (Backend Developer)
