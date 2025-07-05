@@ -52,8 +52,6 @@ To build a trusted, user-friendly electronic shopping platform with:
 - CI/CD 
 - Scrum Agile Framework
 
-Thanks for visiting!
-
 
 ## Contributors
 - **22.11.5279** - RR. Hemas Anggita Amelia (Product Owner)
@@ -61,3 +59,6 @@ Thanks for visiting!
 - **22.11.5275** - Muhammad Azrul Ihwan (UI/UX)
 - **22.11.5276** - Firza Findia Jiven (Frontend Developer)
 - **22.11.5263** - Ervin Aditya (Backend Developer)
+
+Thanks for visiting!
+
